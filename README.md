@@ -8,6 +8,7 @@ Responsive one-page website using React
 
 # Download and Setup 
  * git clone https://github.com/yankkv75/one-page-website/
+ * cd one-page-website
  * npm install
  * npm start
 
